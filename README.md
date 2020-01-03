@@ -1,6 +1,6 @@
 # Commedia - Dante Alighieri
 
-Latex sources to build the book "Commedia" (Divina commedia).
+Clean versions of the book "Commedia" (Divina commedia).
 
 ## Book
 
@@ -47,3 +47,9 @@ Latex sources to build the book "Commedia" (Divina commedia).
 [txt_view]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.txt?inline=true "Commedia - Dante Alighieri"
 
 [Download][txt_download] Commedia as pure text or [open][txt_view] in browser.
+
+## Latex sources
+
+The sources used to create these books are available at
+[gitlab/commedia-src](https://gitlab.com/geusebi/commedia-src "Divina commedia") or
+[github/commedia-src](https://github.com/geusebi/commedia-src "Divina commedia").
