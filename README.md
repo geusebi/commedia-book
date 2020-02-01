@@ -42,6 +42,12 @@ Clean versions of the book "Commedia" (Divina commedia).
 
 [Download][pdf_download_a4_hr_num] Commedia as PDF (A4 with hyperref and numbering) or [open][pdf_view_a4_hr_num] in browser.
 
+### HTML
+[html_download]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.html?inline=false "Commedia - Dante Alighieri"
+[html_view]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.html?inline=true "Commedia - Dante Alighieri"
+
+[Download][html_download] Commedia as HTML page or [open][html_view] in browser.
+
 ### Pure text
 [txt_download]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.txt?inline=false "Commedia - Dante Alighieri"
 [txt_view]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.txt?inline=true "Commedia - Dante Alighieri"
