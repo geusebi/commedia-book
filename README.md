@@ -5,7 +5,7 @@ Clean versions of the book "Commedia" (Divina commedia).
 ## Download page
 
 [books]: https://geusebi.gitlab.io/commedia-book "Books"
-You can download or view the books from this readme--page or from 
+You can download or view the books from this readme page or from 
 **[geusebi.gitlab.io/commedia-book][books]**.
 
 ## Book
