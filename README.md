@@ -2,6 +2,12 @@
 
 Clean versions of the book "Commedia" (Divina commedia).
 
+## Download page
+
+[books]: https://geusebi.gitlab.io/commedia-book "Books"
+You can download or view the books from this readme--page or from 
+**[geusebi.gitlab.io/commedia-book][books]**.
+
 ## Book
 
 ### A5 paper size
@@ -44,9 +50,8 @@ Clean versions of the book "Commedia" (Divina commedia).
 
 ### HTML
 [html_download]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.html?inline=false "Commedia - Dante Alighieri"
-[html_view]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.html?inline=true "Commedia - Dante Alighieri"
 
-[Download][html_download] Commedia as HTML page or [open][html_view] in browser.
+[Download][html_download] Commedia as HTML page.
 
 ### Pure text
 [txt_download]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.txt?inline=false "Commedia - Dante Alighieri"
