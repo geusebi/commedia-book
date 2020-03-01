@@ -48,6 +48,24 @@ You can download or view the books from this readme page or from
 
 [Download][pdf_download_a4_hr_num] Commedia as PDF (A4 with hyperref and numbering) or [open][pdf_view_a4_hr_num] in browser.
 
+[pdf_download_a4_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-twocol.pdf?inline=false "Commedia - Dante Alighieri"
+[pdf_download_a4_hr_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-hr-twocol.pdf?inline=false "Commedia - Dante Alighieri"
+[pdf_view_a4_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-twocol.pdf?inline=true "Commedia - Dante Alighieri"
+[pdf_view_a4_hr_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-hr-twocol.pdf?inline=true "Commedia - Dante Alighieri"
+
+[Download][pdf_download_a4_twocol] Commedia as PDF (A4 with two columns) or [open_twocol][pdf_view_a4_twocol] in browser.
+
+[Download][pdf_download_a4_hr_twocol] Commedia as PDF (A4 with two columns and hyperref) or [open_twocol][pdf_view_a4_hr_twocol] in browser.
+
+[pdf_download_a4_num_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-num-twocol.pdf?inline=false "Commedia - Dante Alighieri"
+[pdf_download_a4_hr_num_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-hr-num-twocol.pdf?inline=false "Commedia - Dante Alighieri"
+[pdf_view_a4_num_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-num-twocol.pdf?inline=true "Commedia - Dante Alighieri"
+[pdf_view_a4_hr_num_twocol]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia-a4-hr-num-twocol.pdf?inline=true "Commedia - Dante Alighieri"
+
+[Download][pdf_download_a4_num_twocol] Commedia as PDF (A4 with two columns and numbering) or [open_twocol][pdf_view_a4_num_twocol] in browser.
+
+[Download][pdf_download_a4_hr_num_twocol] Commedia as PDF (A4 with two columns, hyperref and numbering) or [open_twocol][pdf_view_a4_hr_num_twocol] in browser.
+
 ### HTML
 [html_download]: https://gitlab.com/geusebi/commedia-book/raw/master/book/commedia.html?inline=false "Commedia - Dante Alighieri"
 
